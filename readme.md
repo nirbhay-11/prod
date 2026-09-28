@@ -245,6 +245,3 @@ Connect to `/ws/documents/:id?token=<jwt>`. Messages are binary Yjs sync and awa
 
 ---
 
-## License
-
-MIT
